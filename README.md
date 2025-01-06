@@ -6,16 +6,6 @@
 
 [![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://sync-ankit.gitub.io/Portfolio/)
 
-[![Fork Now](https://img.shields.io/badge/Fork-Now-red?style=flat-square)](https://github.com/sync-ankit/Portfolio/fork)
-
-
-
-
-
-
-
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/sync-ankit/Portfolio)
-
 [![Stars](https://img.shields.io/github/stars/sync-ankit/Portfolio?&style=flat-square)]( https://github.com/sync-ankit/Portfolio/stargazers)
 
 [![Forks](https://img.shields.io/github/forks/sync-ankit/Portfolio?&style=flat-square)]( https://github.com/sync-ankit/Portfolio/network/members)
