@@ -38,11 +38,11 @@
 
 * Open settings of the repo , scroll down and click on Pages.
 
-* In sources select main branch ( by default none is selected ) and click on Save then you will get your web link ( you can also add your custom domain that option is at the end of same page). 
+* In sources select 'ANKIT' branch ( by default none is selected ) and click on Save then you will get your web link ( you can also add your custom domain that option is at the end of same page). 
 
 * Your web is ready!
 
 
 
-<h5>Inspired from xnkitk.netlify.app</h5>
+<h5>Inspired from <a href="https://xnkitk.netlify.app">xnkitk.netlify.app</a></b></p></h5>
 
